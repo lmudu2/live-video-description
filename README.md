@@ -31,7 +31,7 @@ You need **Ollama** installed to run the AI features.
 Clone the repository and install dependencies.
 
 ```bash
-git clone https://github.com/your-username/video-mind.git
+git clone https://github.com/lmudu2/video-mind.git
 cd video-mind
 python3 -m venv venv
 source venv/bin/activate
